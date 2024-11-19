@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//o(n) code
+//o(log n) code
 void prime_factorization1(int n)
 {
 	// running loop from 2 as 1 and 0 is not prime
